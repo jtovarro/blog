@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is JC Tovar, Telco engineer and Consultant at @ Red Hat. Lately, I've been focused on tasks related to systems management automations with Ansible, system migrations, and OpenShift.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tovar@redhat.com](mailto:tovar@redhat.com)
