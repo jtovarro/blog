@@ -79,11 +79,12 @@ output:
 ## Remote Workstation
 A possible solution to avoid installing cli in our workstation is to create a remote terminal with oc,jq, and more cli already installed:
   - Using Podman or Docker:
+
 ```yaml
 $ podman run -p 7681:7681 -it quay.io/redhat-scholars/ttyd-openshift:latest
-
 $ docker run -p 7681:7681 -it quay.io/redhat-scholars/ttyd-openshift:latest
 ```
+
   - Run `localhost:7681` in your browser to access the terminal.
 
 ## Related Links
