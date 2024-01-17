@@ -3,7 +3,7 @@ layout: post
 title: Red Hat Scholars - Enable customers and individuals to participate in a Workshop
 ---
 
-Have you ever think or have the need to create a page for people/customer following a workshop? If that's the case Red Hat Scholars is a framework that will make your life much easier.
+Have you ever thought or had the need to create a page for people/customer following a workshop? If that's the case Red Hat Scholars is a framework that will make your life much easier.
 
 Steps to deploy a Red Hat Scholar framework to create a workshop:
 
