@@ -1,4 +1,7 @@
-# Create your own workshop page hosted in GitHub
+---
+layout: post
+title: Create your own workshop page hosted in GitHub
+---
 
 Have you ever think or have the need to create a page for people following a workshop? If that's the case Red Hat Scholars is a framework that will make your life much easier.
 
