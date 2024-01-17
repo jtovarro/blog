@@ -89,8 +89,4 @@ $ docker run -p 7681:7681 -it quay.io/redhat-scholars/ttyd-openshift:latest
 ## Related Links
 - Reference: [https://redhat-scholars.github.io/build-course/rhs-build-course/overview.html#file-structure](https://redhat-scholars.github.io/build-course/rhs-build-course/overview.html#file-structure)
 
-- Guide repos: 
-  - [https://github.com/rhte2023-argo-rollouts/redhat-workshop-deployment-strategies](https://github.com/rhte2023-argo-rollouts/redhat-workshop-deployment-strategies)
-  - [https://github.com/acidonper/redhat-workshop-cicd-gitops](https://github.com/acidonper/redhat-workshop-cicd-gitops)
-
 <a href="https://www.buymeacoffee.com/techtovar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a piece of fruit&emoji=🍌&slug=techtovar&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
