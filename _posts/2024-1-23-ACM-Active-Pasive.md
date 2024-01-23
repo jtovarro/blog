@@ -1,9 +1,10 @@
-# RHACM Active-Passive Hub for Disaster Recovery
-
-## __Introduction__
+---
+layout: post
+title: RHACM Active-Passive Hub for Disaster Recovery
+---
 
 ---
-How to configure an active-passive hub cluster configuration, where the initial hub cluster backs up data and one, or more passive hub clusters are on stand-by. When the active cluster becomes unavailable the passive hub become active restoring passive data and active data to control the managed clusters.
+Through this post we are going to learn how to configure an active-passive hub cluster configuration, where the initial hub cluster backs up data and one, or more passive hub clusters are on stand-by. When the active cluster becomes unavailable the passive hub become active restoring passive data and active data to control the managed clusters.
 
 - OCP v4.6 or above
 - RHACM v2.6
@@ -90,3 +91,6 @@ This repo provides steps to set up a DR scenario with ACM.
 [3] [Cluster Backup Operator](https://github.com/stolostron/cluster-backup-operator/tree/release-2.6/config/samples)
 
 [4] [Install OADP operator using OperatorHub](https://github.com/openshift/oadp-operator/blob/master/docs/install_olm.md#create-the-dataprotectionapplication-custom-resource)
+
+
+<a href="https://www.buymeacoffee.com/techtovar"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a piece of fruit&emoji=🍌&slug=techtovar&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
