@@ -78,11 +78,6 @@ $ oc apply -f https://raw.githubusercontent.com/jtovarro/active-pasive-hub-clust
 10) If the `old hub` becomes available again delete the `backupschedule` object and the `managedcluster` objects so this hub cluster now is available as passive hub.
 
 ---
-### __Summary__
-
-This repo provides steps to set up a DR scenario with ACM.
-
----
 ### Related Links
 [1] [Backup and Restore documentation](https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.6/html-single/backup_and_restore/index)
 
