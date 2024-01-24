@@ -73,7 +73,7 @@ $ oc apply -f https://raw.githubusercontent.com/jtovarro/active-pasive-hub-clust
 $ oc apply -f https://raw.githubusercontent.com/jtovarro/active-pasive-hub-cluster/main/restore/restore.yaml
 ```
 
-#### __NOTE__: for RHACM v2.6 only clusters created through HIVE API will be added to the passive hub automatically, imported clusters will have a 'pending' status and need to be added manually. For RHACM v2.7 both HIVE API and imported clusters will be added to the passive hub cluster automatically when a activation restore take place. See more about RHACM v2.7 [here](https://cloud.redhat.com/blog/red-hat-advanced-cluster-management-for-kubernetes-2.7-maintains-its-commitment-to-security-at-the-edge?hs_preview=yVBfvbRa-101533025107).
+#### __NOTE__: for ACM v2.6 only clusters created through HIVE API will be added to the passive hub automatically, imported clusters will have a 'pending' status and need to be added manually. For ACM v2.7 both HIVE API and imported clusters will be added to the passive hub cluster automatically when a activation restore take place. See more about ACM v2.7 [here](https://cloud.redhat.com/blog/red-hat-advanced-cluster-management-for-kubernetes-2.7-maintains-its-commitment-to-security-at-the-edge?hs_preview=yVBfvbRa-101533025107).
 
 10) If the `old hub` becomes available again delete the `backupschedule` object and the `managedcluster` objects so this hub cluster now is available as passive hub.
 
