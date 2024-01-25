@@ -11,3 +11,4 @@ Lately, I've been focused on tasks related to systems management automations wit
 ### Contact me
 
 [tovar@redhat.com](mailto:tovar@redhat.com)
+[RHCA Certified](https://www.credly.com/users/jtovarro)
