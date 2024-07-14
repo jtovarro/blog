@@ -14,7 +14,7 @@ Prerequisites:
   
   1) Fork [https://github.com/jtovarro/hub-blank-vpattern](https://github.com/jtovarro/hub-blank-vpattern) in your GitHub.
 
-Some steps are required to onboard Validated Patterns, in [hub-blank-vppatern](https://github.com/jtovarro/hub-blank-vpattern) repository you'll find a playbook in [ansible/playbooks/vpatters_onboarding.yaml](https://github.com/jtovarro/hub-blank-vpattern/ansible/playbooks/vpatters_onboarding.yaml) that performs those steps for you:
+Some steps are required to onboard Validated Patterns, in [hub-blank-vppatern](https://github.com/jtovarro/hub-blank-vpattern) repository you'll find a playbook in [ansible/playbooks/vpatters_onboarding.yaml](https://github.com/jtovarro/hub-blank-vpattern/blob/gmbros/ansible/playbooks/vpatterns_onboarding.yaml) that performs those steps for you:
 
   - Installing Validated Pattern operator.
   - Creating Pattern CRD pointing to your forked repository.
