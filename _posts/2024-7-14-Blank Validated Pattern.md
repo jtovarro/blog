@@ -4,7 +4,7 @@ title: Blank Validated Patter to configure MANO cluster
 ---
 
 ---
-This [repository](https://github.com/jtovarro/hub-blank-vpattern) is in charge of applying day 2 configurations to the MANO cluster using Validated Pattern.
+Use this [repository](https://github.com/jtovarro/hub-blank-vpattern) to apply day 2 configurations to the MANO cluster using Validated Pattern.
 
 Validated Patterns are an evolution of how you deploy applications in a hybrid cloud. With a pattern, you can automatically deploy a full application stack through a GitOps-based framework. With this framework, you can create business-centric solutions while maintaining a level of Continuous Integration (CI) over your application.
 
