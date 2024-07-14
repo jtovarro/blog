@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blank Validated Pattern to configure MANO cluster
+title: Blank Validated Pattern to configure MANO clusters
 ---
 
 ---
