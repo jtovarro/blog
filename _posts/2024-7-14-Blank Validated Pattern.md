@@ -8,6 +8,22 @@ Use this [repository](https://github.com/jtovarro/hub-blank-vpattern) as a blank
 
 ---
 
+## Validated Patterns Onboarding
+
+Prerequisites:
+  
+  1) Fork [https://github.com/jtovarro/hub-blank-vpattern](https://github.com/jtovarro/hub-blank-vpattern) in your GitHub.
+
+Some steps are required to onboard Validated Patterns, in [hub-blank-vppatern](https://github.com/jtovarro/hub-blank-vpattern) repository you'll find a playbook in [ansible/playbooks/vpatters_onboarding.yaml](https://github.com/jtovarro/hub-blank-vpattern/ansible/playbooks/vpatters_onboarding.yaml) that performs those steps for you:
+
+  - Installing Validated Pattern operator.
+  - Creating Pattern CRD pointing to your forked repository.
+
+The playbook will ask you for:
+  
+  - Your GitHub user where the forked repository is located.
+  - The path to the kubeconfig, so the k8s ansible module is able to create the kubernetes resources.
+
 ## How to start working
 
 Review the *values-hub.yaml* file, inside this file you'll be able to declare in a descriptive way:
