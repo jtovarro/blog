@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Ey! My name is JC Tovar, a Telco engineer and [Red Hat Certified Architect](https://www.credly.com/users/jtovarro). 
+Ey! My name is JuancarC Tovar, Telco engineer and [Red Hat Certified Architect](https://www.credly.com/users/jtovarro). 
 
-Lately, I've been focused on tasks related to systems management automations with Ansible, systems migrations and OpenShift. Cloud Consultant at @ Red Hat.
+Most of my time, I've been focused on tasks related to OpenShift, systems management automations with Ansible, and RHEL migration factories.
 
-### Contact me
+Cloud Consultant at @ Red Hat.
+
+### Happy to hear feedback or questions :)
 
 [tovar@redhat.com](mailto:tovar@redhat.com)
