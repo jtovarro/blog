@@ -4,7 +4,7 @@ title: Blank Pattern to configure MANO OpenShift clusters
 ---
 
 ---
-[hub-blank-vpattern](https://github.com/jtovarro/hub-blank-vpattern) acts as a blank papper to easily customize and apply day 2 configurations to MANO OpenShift clusters using the Validated Pattern Framework. Validated patterns are living code architectures for different edge computing and hybrid cloud use cases. They're created by using Helm Charts, a collection of files that describe a set of related Kubernetes resources.
+[hub-blank-vpattern]([https://github.com/jtovarro/hub-blank-vpattern](https://github.com/vpatterns/blank)) acts as a blank papper to easily customize and apply day 2 configurations to MANO OpenShift clusters using the Validated Pattern Framework. Validated patterns are living code architectures for different edge computing and hybrid cloud use cases. They're created by using Helm Charts, a collection of files that describe a set of related Kubernetes resources.
 
 ---
 
