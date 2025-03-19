@@ -4,7 +4,7 @@ title: Blank Pattern to configure MANO OpenShift clusters
 ---
 
 ---
-[hub-blank-vpattern]([https://github.com/jtovarro/hub-blank-vpattern](https://github.com/vpatterns/blank)) acts as a blank papper to easily customize and apply day 2 configurations to MANO OpenShift clusters using the Validated Pattern Framework. Validated patterns are living code architectures for different edge computing and hybrid cloud use cases. They're created by using Helm Charts, a collection of files that describe a set of related Kubernetes resources.
+[blank-vpattern](https://github.com/vpatterns/blank) acts as a blank papper to easily customize and apply day 2 configurations to MANO OpenShift clusters using the Validated Pattern Framework. Validated patterns are living code architectures for different edge computing and hybrid cloud use cases. They're created by using Helm Charts, a collection of files that describe a set of related Kubernetes resources.
 
 ---
 
@@ -12,9 +12,9 @@ title: Blank Pattern to configure MANO OpenShift clusters
 
 Prerequisites:
   
-  1) Fork [https://github.com/jtovarro/hub-blank-vpattern](https://github.com/jtovarro/hub-blank-vpattern) in your GitHub.
+  1) Fork [https://github.com/vpatterns/blank](https://github.com/vpatterns/blank) in your GitHub.
 
-Some steps are required to onboard Validated Patterns, in [hub-blank-vppatern](https://github.com/jtovarro/hub-blank-vpattern) repository you'll find a playbook in [ansible/playbooks/vpatters_onboarding.yaml](https://github.com/jtovarro/hub-blank-vpattern/blob/gmbros/ansible/playbooks/vpatterns_onboarding.yaml) that performs those steps for you:
+Some steps are required to onboard Validated Patterns, in [https://github.com/vpatterns/blank](https://github.com/vpatterns/blank) repository you'll find a playbook in [ansible/playbooks/vpatters_onboarding.yaml](https://github.com/vpatterns/blank/blob/main/ansible/playbooks/vpatterns_onboarding.yaml) that performs those steps for you:
 
   - Installing Validated Pattern operator.
   - Creating Pattern CRD pointing to your forked repository.
